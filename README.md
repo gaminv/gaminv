@@ -1,7 +1,9 @@
+<!-- README.md -->
+
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://i.gifer.com/SUV4.gif"  />
+  <img src="https://i.gifer.com/SUV4.gif" alt="Welcome GIF" width="600" height="300">
 </div>
 
 ###
@@ -12,52 +14,38 @@
 
 <div align="center">
   <a href="https://vk.com/gaminv" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" height="25" alt="vk logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" alt="VK" width="25" height="25">
   </a>
   <a href="https://t.me/vadicco" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" alt="Telegram" width="100" height="25">
   </a>
 </div>
 
-
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left">👩‍💻 Обо мне</h3>
 
-###
-
-<p align="left">Я начинающий Frontend разработчик, и мой путь в IT начался ещё со школьных лет, когда я впервые увлёкся Frontend разработкой. После первых интенсивов у меня был период экспериментов — я изучал язык C, осваивал Python, пробовал себя в data science. Но, поступив в СПбПУ и попробовав множество направлений я в итоге вернулся к Frontend, который мне наиболее близок по духу.</p>
+<p align="left">
+  Я начинающий Frontend разработчик, и мой путь в IT начался ещё со школьных лет, когда я впервые увлёкся Frontend разработкой.
+  После первых интенсивов у меня был период экспериментов — я изучал язык C, осваивал Python, пробовал себя в data science.
+  Но, поступив в СПбПУ и попробовав множество направлений, я в итоге вернулся к Frontend, который мне наиболее близок по духу.
+</p>
 
 ###
 
 <h3 align="left">🛠 Технологии:</h3>
 
-###
-
 <div align="left">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="c++ logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="32" height="32">
+  <img src="https://skillicons.dev/icons?i=vite&size=32" alt="Vite" width="32" height="32">
+  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" alt="Webpack" width="32" height="32">
+  <img src="https://skillicons.dev/icons?i=flutter&size=32" alt="Flutter" width="32" height="32">
+  <img src="https://skillicons.dev/icons?i=wordpress&size=32" alt="WordPress" width="32" height="32">
+  <img src="https://skillicons.dev/icons?i=py&size=32" alt="Python" width="32" height="32">
+  <img src="https://skillicons.dev/icons?i=postgres&size=32" alt="PostgreSQL" width="32" height="32">
+  <img src="https://skillicons.dev/icons?i=cpp&size=32" alt="C++" width="32" height="32">
 </div>
-
-###
